@@ -1,6 +1,6 @@
 # Debunking with Dialogue
 
-This repository provides an overview of the code and the data used as well as supplementary material of the paper *Debunking with Dialogue? Exploring AI-Generated Counterspeech to Challenge Conspiracy Theories*.
+This repository provides an overview of the code and the data used as well as supplementary material of the paper *Debunking with Dialogue? Exploring AI-Generated Counterspeech to Challenge Conspiracy Theories* by Mareike Lisker, Christina Gottschalk and Helena Mihaljević.
 
 ## Data
 
